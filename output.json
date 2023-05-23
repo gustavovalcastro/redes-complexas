@@ -1,0 +1,2311 @@
+[
+    [
+        {
+            "position": 0,
+            "title": "Temporal characterisation of the network of Danish cattle movements and its implication for disease control: 2000\u20132009",
+            "result_id": "nsc6eYie5KQJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167587713000640",
+            "snippet": "\u2026 This heterogeneity was partly attributable to the disassortative mixing pattern seen in the networks where low degree nodes had a tendency to preferentially attach to others with already \u2026",
+            "publication_info": {
+                "summary": "MM Mweu, G Fourni\u00e9, T Halasa, N Toft\u2026 - Preventive veterinary \u2026, 2013 - Elsevier",
+                "authors": [
+                    {
+                        "name": "MM Mweu",
+                        "link": "https://scholar.google.com/citations?user=az237d4AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=az237d4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "az237d4AAAAJ"
+                    },
+                    {
+                        "name": "G Fourni\u00e9",
+                        "link": "https://scholar.google.com/citations?user=GqLgepAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GqLgepAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "GqLgepAAAAAJ"
+                    },
+                    {
+                        "name": "T Halasa",
+                        "link": "https://scholar.google.com/citations?user=Fv5FCCEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Fv5FCCEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Fv5FCCEAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Marshal-Mweu/publication/260122382_Streptococcus_agalactiae_infection_in_the_population_of_Danish_dairy_cattle_herds_An_epidemiological_inquiry/links/02e7e52fa2b95e1c5d000000/Streptococcus-agalactiae-infection-in-the-population-of-Danish-dairy-cattle-herds-An-epidemiological-inquiry.pdf#page=83"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=nsc6eYie5KQJ",
+                "cited_by": {
+                    "total": 61,
+                    "link": "https://scholar.google.com/scholar?cites=11881796025896847262&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "11881796025896847262",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11881796025896847262&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:nsc6eYie5KQJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Ansc6eYie5KQJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=11881796025896847262&hl=en&as_sdt=0,5",
+                    "cluster_id": "11881796025896847262",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11881796025896847262&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Static network analysis of a pork supply chain in Northern Germany\u2014Characterisation of the potential spread of infectious diseases via animal movements",
+            "result_id": "4HhgQlxW6EcJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167587713000287",
+            "snippet": "\u2026 concerning the random removal of nodes. But by strategic \u2026 from the others by only a short distance, so they could be \u2026 (in-degree) ranged between 0 and 16 (median in-degree = 1)\u2026",
+            "publication_info": {
+                "summary": "K B\u00fcttner, J Krieter, A Traulsen, I Traulsen - Preventive veterinary medicine, 2013 - Elsevier",
+                "authors": [
+                    {
+                        "name": "K B\u00fcttner",
+                        "link": "https://scholar.google.com/citations?user=--qiw_oAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=--qiw_oAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "--qiw_oAAAAJ"
+                    },
+                    {
+                        "name": "A Traulsen",
+                        "link": "https://scholar.google.com/citations?user=jlfYejEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jlfYejEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "jlfYejEAAAAJ"
+                    },
+                    {
+                        "name": "I Traulsen",
+                        "link": "https://scholar.google.com/citations?user=OwXOMoYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OwXOMoYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "OwXOMoYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=4HhgQlxW6EcJ",
+                "cited_by": {
+                    "total": 93,
+                    "link": "https://scholar.google.com/scholar?cites=5181486325540354272&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "5181486325540354272",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5181486325540354272&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:4HhgQlxW6EcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3A4HhgQlxW6EcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=5181486325540354272&hl=en&as_sdt=0,5",
+                    "cluster_id": "5181486325540354272",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5181486325540354272&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "A new centrality measure based on the negative and positive effects of clustering coefficient for identifying influential spreaders in complex networks",
+            "result_id": "HTgZ7sDO0x0J",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0960077918301103",
+            "snippet": "\u2026 However, if we look at node K1, it is found that node K1 has small degree and clustering \u2026 We show the frequency of the appearance of different ranks in degree centrality, Closeness \u2026",
+            "publication_info": {
+                "summary": "K Berahmand, A Bouyer, N Samadi - Chaos, Solitons & Fractals, 2018 - Elsevier",
+                "authors": [
+                    {
+                        "name": "K Berahmand",
+                        "link": "https://scholar.google.com/citations?user=oDH68jcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oDH68jcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "oDH68jcAAAAJ"
+                    },
+                    {
+                        "name": "A Bouyer",
+                        "link": "https://scholar.google.com/citations?user=RRc2H_AAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RRc2H_AAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "RRc2H_AAAAAJ"
+                    },
+                    {
+                        "name": "N Samadi",
+                        "link": "https://scholar.google.com/citations?user=0Bnq8xAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0Bnq8xAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "0Bnq8xAAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=HTgZ7sDO0x0J",
+                "cited_by": {
+                    "total": 56,
+                    "link": "https://scholar.google.com/scholar?cites=2149288775209531421&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "2149288775209531421",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2149288775209531421&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:HTgZ7sDO0x0J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AHTgZ7sDO0x0J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=2149288775209531421&hl=en&as_sdt=0,5",
+                    "cluster_id": "2149288775209531421",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2149288775209531421&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "The structure and function of complex networks",
+            "result_id": "uFFE_fQXprMJ",
+            "link": "https://epubs.siam.org/doi/abs/10.1137/s003614450342480",
+            "snippet": "\u2026 call vertices or sometimes nodes, with connections between them\u2026 Watts [110] have carried out an email version of Milgram\u2019s small-\u2026 of the fraction of pages with low in-degree might be an \u2026",
+            "publication_info": {
+                "summary": "MEJ Newman - SIAM review, 2003 - SIAM",
+                "authors": [
+                    {
+                        "name": "MEJ Newman",
+                        "link": "https://scholar.google.com/citations?user=rQ68pVwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rQ68pVwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "rQ68pVwAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0303516"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=uFFE_fQXprMJ",
+                "cited_by": {
+                    "total": 23629,
+                    "link": "https://scholar.google.com/scholar?cites=12945060519911641528&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "12945060519911641528",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12945060519911641528&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:uFFE_fQXprMJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AuFFE_fQXprMJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 114,
+                    "link": "https://scholar.google.com/scholar?cluster=12945060519911641528&hl=en&as_sdt=0,5",
+                    "cluster_id": "12945060519911641528",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12945060519911641528&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Chains of affection: The structure of adolescent romantic and sexual networks",
+            "result_id": "9UFSSJyuX8QJ",
+            "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/386272",
+            "snippet": "\u2026 may be smaller and denser, both structures are associated with high cyclicity and low path \u2026 26Specifically, we generate 1,000 networks with the same number of nodes and the same \u2026",
+            "publication_info": {
+                "summary": "PS Bearman, J Moody, K Stovel - American journal of \u2026, 2004 - journals.uchicago.edu",
+                "authors": [
+                    {
+                        "name": "PS Bearman",
+                        "link": "https://scholar.google.com/citations?user=sfaRGkUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sfaRGkUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "sfaRGkUAAAAJ"
+                    },
+                    {
+                        "name": "J Moody",
+                        "link": "https://scholar.google.com/citations?user=sF0O-pIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sF0O-pIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "sF0O-pIAAAAJ"
+                    },
+                    {
+                        "name": "K Stovel",
+                        "link": "https://scholar.google.com/citations?user=3-j51wIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3-j51wIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "3-j51wIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "columbia.edu",
+                    "file_format": "PDF",
+                    "link": "https://academiccommons.columbia.edu/doi/10.7916/D8PZ5MF2/download"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9UFSSJyuX8QJ",
+                "cited_by": {
+                    "total": 1020,
+                    "link": "https://scholar.google.com/scholar?cites=14150220540472869365&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "14150220540472869365",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14150220540472869365&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:9UFSSJyuX8QJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3A9UFSSJyuX8QJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 33,
+                    "link": "https://scholar.google.com/scholar?cluster=14150220540472869365&hl=en&as_sdt=0,5",
+                    "cluster_id": "14150220540472869365",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14150220540472869365&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Detailing the co-authorship networks in degree coupling, edge weight and academic age perspective",
+            "result_id": "ZBnpnsYV4bQJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S096007791630220X",
+            "snippet": "\u2026 the same generic properties like small-world property (one can find a short path between most pairs of nodes) or scale-free degree distribution (the node degree distribution follows a \u2026",
+            "publication_info": {
+                "summary": "\u0130 T\u00fcrker, A \u00c7avu\u015fo\u011flu - Chaos, Solitons & Fractals, 2016 - Elsevier",
+                "authors": [
+                    {
+                        "name": "\u0130 T\u00fcrker",
+                        "link": "https://scholar.google.com/citations?user=DlnJCmEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DlnJCmEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "DlnJCmEAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZBnpnsYV4bQJ",
+                "cited_by": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cites=13033722739400710500&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "13033722739400710500",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13033722739400710500&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ZBnpnsYV4bQJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AZBnpnsYV4bQJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=13033722739400710500&hl=en&as_sdt=0,5",
+                    "cluster_id": "13033722739400710500",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13033722739400710500&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Analyzing maintainability and reliability of object-oriented software using weighted complex network",
+            "result_id": "lbrOvxPFbbQJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0164121215001752",
+            "snippet": "\u2026 between node i and node z together with that of node j and node z \u2026 node z has a low in-degree. The communicational cohesion between nodes is inversely proportional to the in-degree\u2026",
+            "publication_info": {
+                "summary": "CY Chong, SP Lee - Journal of Systems and Software, 2015 - Elsevier",
+                "authors": [
+                    {
+                        "name": "CY Chong",
+                        "link": "https://scholar.google.com/citations?user=GOVDrswAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GOVDrswAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "GOVDrswAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Chun-Yong-Chong/publication/283352438_Analyzing_maintainability_and_reliability_of_object-oriented_software_using_weighted_complex_network/links/5d61d959299bf1f70b0aa415/Analyzing-maintainability-and-reliability-of-object-oriented-software-using-weighted-complex-network.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=lbrOvxPFbbQJ",
+                "cited_by": {
+                    "total": 67,
+                    "link": "https://scholar.google.com/scholar?cites=13001264387901536917&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "13001264387901536917",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13001264387901536917&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:lbrOvxPFbbQJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AlbrOvxPFbbQJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=13001264387901536917&hl=en&as_sdt=0,5",
+                    "cluster_id": "13001264387901536917",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13001264387901536917&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Network growth by copying",
+            "result_id": "b7b033ODhEMJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.036118",
+            "snippet": "\u2026 , encompassing a time span of 110 years 13. From these data, \u2026 of nodes with in-degree i and out-degree j in a network of N \u2026 ments, as well as Mark Newman for informing us about Ref. \u2026",
+            "publication_info": {
+                "summary": "PL Krapivsky, S Redner - Physical Review E, 2005 - APS",
+                "authors": [
+                    {
+                        "name": "PL Krapivsky",
+                        "link": "https://scholar.google.com/citations?user=IBiCgqcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IBiCgqcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "IBiCgqcAAAAJ"
+                    },
+                    {
+                        "name": "S Redner",
+                        "link": "https://scholar.google.com/citations?user=9g6Z6_UAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9g6Z6_UAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "9g6Z6_UAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0410379"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=b7b033ODhEMJ",
+                "cited_by": {
+                    "total": 230,
+                    "link": "https://scholar.google.com/scholar?cites=4865158031168812655&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "4865158031168812655",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4865158031168812655&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:b7b033ODhEMJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Ab7b033ODhEMJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 16,
+                    "link": "https://scholar.google.com/scholar?cluster=4865158031168812655&hl=en&as_sdt=0,5",
+                    "cluster_id": "4865158031168812655",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4865158031168812655&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Detecting livestock production zones",
+            "result_id": "dQqUxwGvVicJ",
+            "type": "Html",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167587713000044",
+            "snippet": "\u2026 .) are represented as nodes, and animal movements between the nodes are represented as \u2026 and its flexibility is achieved by sacrificing a small fraction of modularity. (For interpretation \u2026",
+            "publication_info": {
+                "summary": "JHH Grisi-Filho, M Amaku, F Ferreira, RA Dias\u2026 - Preventive Veterinary \u2026, 2013 - Elsevier",
+                "authors": [
+                    {
+                        "name": "JHH Grisi-Filho",
+                        "link": "https://scholar.google.com/citations?user=H9qD0a0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=H9qD0a0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "H9qD0a0AAAAJ"
+                    },
+                    {
+                        "name": "M Amaku",
+                        "link": "https://scholar.google.com/citations?user=agiu0f0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=agiu0f0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "agiu0f0AAAAJ"
+                    },
+                    {
+                        "name": "F Ferreira",
+                        "link": "https://scholar.google.com/citations?user=oxCxdGgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oxCxdGgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "oxCxdGgAAAAJ"
+                    },
+                    {
+                        "name": "RA Dias",
+                        "link": "https://scholar.google.com/citations?user=R5SHs2wAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R5SHs2wAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "R5SHs2wAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "sciencedirect.com",
+                    "file_format": "HTML",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S0167587713000044"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=dQqUxwGvVicJ",
+                "html_version": "https://www.sciencedirect.com/science/article/pii/S0167587713000044",
+                "cited_by": {
+                    "total": 27,
+                    "link": "https://scholar.google.com/scholar?cites=2834645437654502005&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "2834645437654502005",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2834645437654502005&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:dQqUxwGvVicJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AdQqUxwGvVicJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=2834645437654502005&hl=en&as_sdt=0,5",
+                    "cluster_id": "2834645437654502005",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2834645437654502005&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "On the topologic structure of economic complex networks: empirical evidence from large scale payment network of Estonia",
+            "result_id": "vezOByaT2w8J",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0960077916300091",
+            "snippet": "\u2026 out-degree k o and the in-degree k d of a node, and we define \u2026 is 40 and for the nodes is 110, meaning that each company \u2026 is low and disperse (more than 52% of the nodes have either \u2026",
+            "publication_info": {
+                "summary": "SR de la Torre, J Kalda, R Kitt, J Engelbrecht - Chaos, Solitons & Fractals, 2016 - Elsevier",
+                "authors": [
+                    {
+                        "name": "J Kalda",
+                        "link": "https://scholar.google.com/citations?user=A0sOHR0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A0sOHR0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A0sOHR0AAAAJ"
+                    },
+                    {
+                        "name": "R Kitt",
+                        "link": "https://scholar.google.com/citations?user=8vs_ALgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8vs_ALgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "8vs_ALgAAAAJ"
+                    },
+                    {
+                        "name": "J Engelbrecht",
+                        "link": "https://scholar.google.com/citations?user=g1aiRz8AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g1aiRz8AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "g1aiRz8AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/1602.04352"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=vezOByaT2w8J",
+                "cited_by": {
+                    "total": 23,
+                    "link": "https://scholar.google.com/scholar?cites=1142668722017594557&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "1142668722017594557",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1142668722017594557&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vezOByaT2w8J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Newman+MEJ%27,+%27indegree%27:+110%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AvezOByaT2w8J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=1142668722017594557&hl=en&as_sdt=0,5",
+                    "cluster_id": "1142668722017594557",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1142668722017594557&engine=google_scholar&hl=en"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "position": 0,
+            "title": "Scaling properties of scale-free evolving networks: Continuous approach",
+            "result_id": "g7sTOmzS5_4J",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.63.056125",
+            "snippet": "\u2026 some particular node is proportional to a function of its in-degree, \u2026 Again, we study in-degree distributions, so these links may \u2026 The closer 0 is to 2, the smaller the value of g necessary to \u2026",
+            "publication_info": {
+                "summary": "SN Dorogovtsev, JFF Mendes - Physical Review E, 2001 - APS",
+                "authors": [
+                    {
+                        "name": "SN Dorogovtsev",
+                        "link": "https://scholar.google.com/citations?user=BeedFHMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BeedFHMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "BeedFHMAAAAJ"
+                    },
+                    {
+                        "name": "JFF Mendes",
+                        "link": "https://scholar.google.com/citations?user=g0PnXHIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g0PnXHIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "g0PnXHIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0012009"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=g7sTOmzS5_4J",
+                "cited_by": {
+                    "total": 344,
+                    "link": "https://scholar.google.com/scholar?cites=18367880967526529923&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "18367880967526529923",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=18367880967526529923&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:g7sTOmzS5_4J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3Ag7sTOmzS5_4J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=18367880967526529923&hl=en&as_sdt=0,34",
+                    "cluster_id": "18367880967526529923",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=18367880967526529923&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Evolution of networks",
+            "result_id": "ZT_6Fxd2MtoJ",
+            "link": "https://www.tandfonline.com/doi/abs/10.1080/00018730110112519",
+            "snippet": "\u2026 been studied by mathematical graph theory [74, 75, 76]. Some \u2026 graphs consisting of vertices (nodes) connected by edges (\u2026 small, so the degree distribution coincides with the in-degree \u2026",
+            "publication_info": {
+                "summary": "SN Dorogovtsev, JFF Mendes - Advances in physics, 2002 - Taylor & Francis",
+                "authors": [
+                    {
+                        "name": "SN Dorogovtsev",
+                        "link": "https://scholar.google.com/citations?user=BeedFHMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BeedFHMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "BeedFHMAAAAJ"
+                    },
+                    {
+                        "name": "JFF Mendes",
+                        "link": "https://scholar.google.com/citations?user=g0PnXHIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g0PnXHIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "g0PnXHIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0106144)"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZT_6Fxd2MtoJ",
+                "cited_by": {
+                    "total": 3951,
+                    "link": "https://scholar.google.com/scholar?cites=15722759090662424421&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "15722759090662424421",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=15722759090662424421&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ZT_6Fxd2MtoJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3AZT_6Fxd2MtoJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 26,
+                    "link": "https://scholar.google.com/scholar?cluster=15722759090662424421&hl=en&as_sdt=0,34",
+                    "cluster_id": "15722759090662424421",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=15722759090662424421&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Wikipedias: Collaborative web-based encyclopedias as complex networks",
+            "result_id": "guS2mODjTW4J",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.016115",
+            "snippet": "\u2026 directed link leads out of a node of out-degree k and into a node of in-degree j, qj in, and qk \u2026 Having in mind small values of assortativity coefficient we obtained, this conclusion is very \u2026",
+            "publication_info": {
+                "summary": "V Zlati\u0107, M Bo\u017ei\u010devi\u0107, H \u0160tefan\u010di\u0107, M Domazet - Physical Review E, 2006 - APS",
+                "authors": [
+                    {
+                        "name": "V Zlati\u0107",
+                        "link": "https://scholar.google.com/citations?user=9ZZJI_EAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9ZZJI_EAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "9ZZJI_EAAAAJ"
+                    },
+                    {
+                        "name": "M Bo\u017ei\u010devi\u0107",
+                        "link": "https://scholar.google.com/citations?user=PkI4BoYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PkI4BoYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "PkI4BoYAAAAJ"
+                    },
+                    {
+                        "name": "H \u0160tefan\u010di\u0107",
+                        "link": "https://scholar.google.com/citations?user=nM6PSnoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nM6PSnoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nM6PSnoAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/physics/0602149"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=guS2mODjTW4J",
+                "cited_by": {
+                    "total": 255,
+                    "link": "https://scholar.google.com/scholar?cites=7948259471153095810&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "7948259471153095810",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7948259471153095810&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:guS2mODjTW4J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3AguS2mODjTW4J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=7948259471153095810&hl=en&as_sdt=0,34",
+                    "cluster_id": "7948259471153095810",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=7948259471153095810&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Synchronizability of weighted aging scale-free networks",
+            "result_id": "Q4L7yT4A24oJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.046107",
+            "snippet": "\u2026 We also found that both the heterogeneity of nodes and a smaller average degree can improve \u2026 This weighting method results in that the in degree of each node in the weighted network \u2026",
+            "publication_info": {
+                "summary": "Y Zou, J Zhu, G Chen - Physical Review E, 2006 - APS",
+                "authors": [
+                    {
+                        "name": "G Chen",
+                        "link": "https://scholar.google.com/citations?user=nKPcjzcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nKPcjzcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nKPcjzcAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "cityu.edu.hk",
+                    "file_format": "PDF",
+                    "link": "https://scholars.cityu.edu.hk/files/125348493/5220817.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Q4L7yT4A24oJ",
+                "cited_by": {
+                    "total": 17,
+                    "link": "https://scholar.google.com/scholar?cites=10005591266810364483&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "10005591266810364483",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=10005591266810364483&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Q4L7yT4A24oJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3AQ4L7yT4A24oJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=10005591266810364483&hl=en&as_sdt=0,34",
+                    "cluster_id": "10005591266810364483",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=10005591266810364483&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Preferential attachment in the growth of social networks: The internet encyclopedia Wikipedia",
+            "result_id": "5TDxjc7lns4J",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.036116",
+            "snippet": "\u2026 ity that a node i with degree ki acquires a new node at time i, \u2026 the Portuguese Wikipedia dataset, small enough to be analyzed \u2026 power-law distributions of both the in degree and the out \u2026",
+            "publication_info": {
+                "summary": "A Capocci, VDP Servedio, F Colaiori, LS Buriol\u2026 - Physical review E, 2006 - APS",
+                "authors": [
+                    {
+                        "name": "A Capocci",
+                        "link": "https://scholar.google.com/citations?user=LUlRfzoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LUlRfzoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "LUlRfzoAAAAJ"
+                    },
+                    {
+                        "name": "VDP Servedio",
+                        "link": "https://scholar.google.com/citations?user=Ry_acPEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ry_acPEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Ry_acPEAAAAJ"
+                    },
+                    {
+                        "name": "F Colaiori",
+                        "link": "https://scholar.google.com/citations?user=OpVwPeEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OpVwPeEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "OpVwPeEAAAAJ"
+                    },
+                    {
+                        "name": "LS Buriol",
+                        "link": "https://scholar.google.com/citations?user=5BoIwjYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5BoIwjYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "5BoIwjYAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/physics/0602026"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=5TDxjc7lns4J",
+                "cited_by": {
+                    "total": 407,
+                    "link": "https://scholar.google.com/scholar?cites=14888590093440856293&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "14888590093440856293",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=14888590093440856293&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:5TDxjc7lns4J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3A5TDxjc7lns4J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 24,
+                    "link": "https://scholar.google.com/scholar?cluster=14888590093440856293&hl=en&as_sdt=0,34",
+                    "cluster_id": "14888590093440856293",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=14888590093440856293&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Network controllability is determined by the density of low in-degree and out-degree nodes",
+            "result_id": "eA4vDFNkNnsJ",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.078701",
+            "snippet": "\u2026 of nodes with in degree and out degree equal to one and two determines the number of driver nodes \u2026 Moreover, we show that random networks with minimum in degree and out degree \u2026",
+            "publication_info": {
+                "summary": "G Menichetti, L Dall'Asta, G Bianconi - Physical review letters, 2014 - APS",
+                "authors": [
+                    {
+                        "name": "G Menichetti",
+                        "link": "https://scholar.google.com/citations?user=qZ457mMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qZ457mMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qZ457mMAAAAJ"
+                    },
+                    {
+                        "name": "L Dall'Asta",
+                        "link": "https://scholar.google.com/citations?user=nZ8H4nsAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nZ8H4nsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nZ8H4nsAAAAJ"
+                    },
+                    {
+                        "name": "G Bianconi",
+                        "link": "https://scholar.google.com/citations?user=ycQXwWgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ycQXwWgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "ycQXwWgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/1405.4365"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=eA4vDFNkNnsJ",
+                "cited_by": {
+                    "total": 135,
+                    "link": "https://scholar.google.com/scholar?cites=8878394023256985208&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "8878394023256985208",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=8878394023256985208&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:eA4vDFNkNnsJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3AeA4vDFNkNnsJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=8878394023256985208&hl=en&as_sdt=0,34",
+                    "cluster_id": "8878394023256985208",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=8878394023256985208&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Scale-free topology of e-mail networks",
+            "result_id": "1vIHlu8-qqYJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.66.035103",
+            "snippet": "\u2026 nodes typically are underestimated, this exponent is smaller \u2026 of the in-degree i, ie a node\u2019s number of different nodes it \u2026 very similar for all nodes and for internal nodes, respectively Fig. 3\u2026",
+            "publication_info": {
+                "summary": "H Ebel, LI Mielsch, S Bornholdt - Physical review E, 2002 - APS",
+                "authors": [
+                    {
+                        "name": "H Ebel",
+                        "link": "https://scholar.google.com/citations?user=agZDaPwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=agZDaPwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "agZDaPwAAAAJ"
+                    },
+                    {
+                        "name": "S Bornholdt",
+                        "link": "https://scholar.google.com/citations?user=d4MOb9wAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d4MOb9wAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d4MOb9wAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0201476"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=1vIHlu8-qqYJ",
+                "cited_by": {
+                    "total": 1184,
+                    "link": "https://scholar.google.com/scholar?cites=12009480555072058070&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "12009480555072058070",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=12009480555072058070&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:1vIHlu8-qqYJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3A1vIHlu8-qqYJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=12009480555072058070&hl=en&as_sdt=0,34",
+                    "cluster_id": "12009480555072058070",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=12009480555072058070&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Breakdown of interdependent directed networks",
+            "result_id": "EtyUavaDng4J",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.1523412113",
+            "snippet": "\u2026 SF networks with and without in-degree and out-degree \u2026 and k out are the in-degree and out-degree of a given node, \u2026 G Bianconi, SN Dorogovtsev, Multiple percolation transitions \u2026",
+            "publication_info": {
+                "summary": "X Liu, HE Stanley, J Gao - Proceedings of the National \u2026, 2016 - National Acad Sciences",
+                "authors": [
+                    {
+                        "name": "X Liu",
+                        "link": "https://scholar.google.com/citations?user=yU8_JtMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yU8_JtMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "yU8_JtMAAAAJ"
+                    },
+                    {
+                        "name": "HE Stanley",
+                        "link": "https://scholar.google.com/citations?user=1fatN9EAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1fatN9EAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1fatN9EAAAAJ"
+                    },
+                    {
+                        "name": "J Gao",
+                        "link": "https://scholar.google.com/citations?user=qMcWVWgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qMcWVWgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qMcWVWgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "pnas.org",
+                    "file_format": "HTML",
+                    "link": "https://www.pnas.org/doi/full/10.1073/pnas.1523412113"
+                },
+                {
+                    "title": "Full View",
+                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:EtyUavaDng4J:scholar.google.com/&hl=en&as_sdt=0,34&scillfp=15399391067995453827&oi=lle"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=EtyUavaDng4J",
+                "html_version": "https://www.pnas.org/doi/full/10.1073/pnas.1523412113",
+                "cited_by": {
+                    "total": 122,
+                    "link": "https://scholar.google.com/scholar?cites=1053424457224608786&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "1053424457224608786",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=1053424457224608786&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:EtyUavaDng4J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3AEtyUavaDng4J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=1053424457224608786&hl=en&as_sdt=0,34",
+                    "cluster_id": "1053424457224608786",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=1053424457224608786&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Truncation of power law behavior in \u201cscale-free\u201d network models due to information filtering",
+            "result_id": "ACx03GnDEmYJ",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.88.138701",
+            "snippet": "\u2026 results for the indegree cumulative distributions for networks with S 5 3 105 nodes and no \u2026 distribution for f fixed has a sharper truncation and a smaller cutoff than for n fixed, which is \u2026",
+            "publication_info": {
+                "summary": "S Mossa, M Barthelemy, HE Stanley, LAN Amaral - Physical Review Letters, 2002 - APS",
+                "authors": [
+                    {
+                        "name": "S Mossa",
+                        "link": "https://scholar.google.com/citations?user=CnTSi3EAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CnTSi3EAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "CnTSi3EAAAAJ"
+                    },
+                    {
+                        "name": "M Barthelemy",
+                        "link": "https://scholar.google.com/citations?user=2UTIVeIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2UTIVeIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "2UTIVeIAAAAJ"
+                    },
+                    {
+                        "name": "HE Stanley",
+                        "link": "https://scholar.google.com/citations?user=1fatN9EAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1fatN9EAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1fatN9EAAAAJ"
+                    },
+                    {
+                        "name": "LAN Amaral",
+                        "link": "https://scholar.google.com/citations?user=Jo0G0c0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Jo0G0c0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Jo0G0c0AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0201421"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ACx03GnDEmYJ",
+                "cited_by": {
+                    "total": 261,
+                    "link": "https://scholar.google.com/scholar?cites=7355156000887024640&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "7355156000887024640",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7355156000887024640&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ACx03GnDEmYJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3AACx03GnDEmYJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=7355156000887024640&hl=en&as_sdt=0,34",
+                    "cluster_id": "7355156000887024640",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=7355156000887024640&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Evolution of networks: From biological nets to the Internet and WWW",
+            "result_id": "81CnNxc4pYwJ",
+            "type": "Book",
+            "link": "https://books.google.com/books?hl=en&lr=&id=2isSDAAAQBAJ&oi=fnd&pg=PP1&dq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&ots=6gqboQSsf-&sig=6rClEsaxqg9MtXrVlTAz3XIra44",
+            "snippet": "\u2026 The number of neurons in a human brain is much smaller than \u2026 perception of an individuum as a node of a complex system of \u2026 Most of the empirical data are degree (or in-degree, or out-\u2026",
+            "publication_info": {
+                "summary": "SN Dorogovtsev, JFF Mendes - 2003 - books.google.com",
+                "authors": [
+                    {
+                        "name": "SN Dorogovtsev",
+                        "link": "https://scholar.google.com/citations?user=BeedFHMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BeedFHMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "BeedFHMAAAAJ"
+                    },
+                    {
+                        "name": "JFF Mendes",
+                        "link": "https://scholar.google.com/citations?user=g0PnXHIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g0PnXHIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "g0PnXHIAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=81CnNxc4pYwJ",
+                "cited_by": {
+                    "total": 3887,
+                    "link": "https://scholar.google.com/scholar?cites=10134568208836284659&as_sdt=5,34&sciodt=0,34&hl=en",
+                    "cites_id": "10134568208836284659",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=10134568208836284659&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:81CnNxc4pYwJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Dorogovtsev+SN%27,+%27indegree%27:+74%7D&hl=en&as_sdt=0,34",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C34&engine=google_scholar&hl=en&q=related%3A81CnNxc4pYwJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=10134568208836284659&hl=en&as_sdt=0,34",
+                    "cluster_id": "10134568208836284659",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C34&cluster=10134568208836284659&engine=google_scholar&hl=en"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "position": 0,
+            "title": "Scale-free networks in cell biology",
+            "result_id": "28MewTHe-AcJ",
+            "link": "https://journals.biologists.com/jcs/article-abstract/118/21/4947/28519",
+            "snippet": "\u2026 In directed networks we distinguish the in-degree, the \u2026 ) degree, for example node O has both in-degree and out-degree 2. \u2026 This suggests that low-degree nodes tend to belong to highly \u2026",
+            "publication_info": {
+                "summary": "R Albert - Journal of cell science, 2005 - journals.biologists.com",
+                "authors": [
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/q-bio/0510054"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=28MewTHe-AcJ",
+                "cited_by": {
+                    "total": 1473,
+                    "link": "https://scholar.google.com/scholar?cites=574453257764520923&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "574453257764520923",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=574453257764520923&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:28MewTHe-AcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3A28MewTHe-AcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cluster=574453257764520923&hl=en&as_sdt=0,33",
+                    "cluster_id": "574453257764520923",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=574453257764520923&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Statistical mechanics of complex networks",
+            "result_id": "YEyK2DrClUoJ",
+            "link": "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47",
+            "snippet": "\u2026 with N nodes and connect every pair of nodes with probability p\u2026 there is a relatively short path between any two nodes. The \u2026 For directed networks we list separately the indegree (in) and \u2026",
+            "publication_info": {
+                "summary": "R Albert, AL Barab\u00e1si - Reviews of modern physics, 2002 - APS",
+                "authors": [
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    },
+                    {
+                        "name": "AL Barab\u00e1si",
+                        "link": "https://scholar.google.com/citations?user=vsj2slIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vsj2slIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vsj2slIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0106096"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=YEyK2DrClUoJ",
+                "cited_by": {
+                    "total": 26645,
+                    "link": "https://scholar.google.com/scholar?cites=5374415288333388896&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "5374415288333388896",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5374415288333388896&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:YEyK2DrClUoJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AYEyK2DrClUoJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=5374415288333388896&hl=en&as_sdt=0,33",
+                    "cluster_id": "5374415288333388896",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=5374415288333388896&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Network inference, analysis, and modeling in systems biology",
+            "result_id": "sniPtfr4tJkJ",
+            "link": "https://academic.oup.com/plcell/article-abstract/19/11/3327/6100035",
+            "snippet": "\u2026 )] quantifies the fraction of nodes with in-degree k in (out-degree k out ). For example, one \u2026 by three- and four-node motifs revealed that dynamic stability to small perturbations in \u2026",
+            "publication_info": {
+                "summary": "R Albert - The Plant Cell, 2007 - academic.oup.com",
+                "authors": [
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "nih.gov",
+                    "file_format": "HTML",
+                    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2174897/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=sniPtfr4tJkJ",
+                "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2174897/",
+                "cited_by": {
+                    "total": 196,
+                    "link": "https://scholar.google.com/scholar?cites=11075751139282483378&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "11075751139282483378",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=11075751139282483378&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:sniPtfr4tJkJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AsniPtfr4tJkJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=11075751139282483378&hl=en&as_sdt=0,33",
+                    "cluster_id": "11075751139282483378",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=11075751139282483378&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Attractor analysis of asynchronous Boolean models of signal transduction networks",
+            "result_id": "fznN5bgHnpAJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0022519310003796",
+            "snippet": "\u2026 simplified the 13-node network into smaller sub-networks to \u2026 the node cGMP from the network which has both in-degree (\u2026 of cycle-inducing update sequences is 64 of 2401, or 2.7%. \u2026",
+            "publication_info": {
+                "summary": "A Saadatpour, I Albert, R Albert - Journal of theoretical biology, 2010 - Elsevier",
+                "authors": [
+                    {
+                        "name": "A Saadatpour",
+                        "link": "https://scholar.google.com/citations?user=w8GIxIsAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w8GIxIsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "w8GIxIsAAAAJ"
+                    },
+                    {
+                        "name": "I Albert",
+                        "link": "https://scholar.google.com/citations?user=hordfUUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hordfUUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "hordfUUAAAAJ"
+                    },
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=fznN5bgHnpAJ",
+                "cited_by": {
+                    "total": 188,
+                    "link": "https://scholar.google.com/scholar?cites=10420775078492715391&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "10420775078492715391",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=10420775078492715391&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:fznN5bgHnpAJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AfznN5bgHnpAJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=10420775078492715391&hl=en&as_sdt=0,33",
+                    "cluster_id": "10420775078492715391",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=10420775078492715391&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Boolean modeling of biological regulatory networks: a methodology tutorial",
+            "result_id": "emgK56Q1-QEJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1046202312002770",
+            "snippet": "\u2026 2, the node SLP has only outgoing edges (in-degree = 0), thus it is a source node in the \u2026 By flipping the state(s) of one or multiple nodes in the wild-type fixed point for a short period of \u2026",
+            "publication_info": {
+                "summary": "A Saadatpour, R Albert - Methods, 2013 - Elsevier",
+                "authors": [
+                    {
+                        "name": "A Saadatpour",
+                        "link": "https://scholar.google.com/citations?user=w8GIxIsAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w8GIxIsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "w8GIxIsAAAAJ"
+                    },
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=emgK56Q1-QEJ",
+                "cited_by": {
+                    "total": 171,
+                    "link": "https://scholar.google.com/scholar?cites=142203845606008954&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "142203845606008954",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=142203845606008954&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:emgK56Q1-QEJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AemgK56Q1-QEJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=142203845606008954&hl=en&as_sdt=0,33",
+                    "cluster_id": "142203845606008954",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=142203845606008954&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Using graph concepts to understand the organization of complex systems",
+            "result_id": "0rqpMNiNJU8J",
+            "link": "https://www.worldscientific.com/doi/abs/10.1142/S021812740701835X",
+            "snippet": "\u2026 a node is the number of edges adjacent to that node; if the directionality of interaction is important, a node\u2019s total degree can be broken into an in-degree \u2026 to low-degree nodes and hubs, \u2026",
+            "publication_info": {
+                "summary": "C Christensen, R Albert - International Journal of Bifurcation and \u2026, 2007 - World Scientific",
+                "authors": [
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/q-bio/0609036"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0rqpMNiNJU8J",
+                "cited_by": {
+                    "total": 69,
+                    "link": "https://scholar.google.com/scholar?cites=5703120462803483346&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "5703120462803483346",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5703120462803483346&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:0rqpMNiNJU8J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3A0rqpMNiNJU8J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=5703120462803483346&hl=en&as_sdt=0,33",
+                    "cluster_id": "5703120462803483346",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=5703120462803483346&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Topological constraints on network control profiles",
+            "result_id": "eiUDdK6T9YcJ",
+            "type": "Html",
+            "link": "https://www.nature.com/articles/srep18693",
+            "snippet": "\u2026 More specifically, the density of nodes with a low in-degree and/or out-degree strongly influences the controllability of a network 15 and in many cases the value of N c is largely \u2026",
+            "publication_info": {
+                "summary": "C Campbell, J Ruths, D Ruths, K Shea, R Albert - Scientific reports, 2015 - nature.com",
+                "authors": [
+                    {
+                        "name": "C Campbell",
+                        "link": "https://scholar.google.com/citations?user=mZ--xNEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mZ--xNEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "mZ--xNEAAAAJ"
+                    },
+                    {
+                        "name": "J Ruths",
+                        "link": "https://scholar.google.com/citations?user=bTStxAMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bTStxAMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "bTStxAMAAAAJ"
+                    },
+                    {
+                        "name": "D Ruths",
+                        "link": "https://scholar.google.com/citations?user=WZWeI0MAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WZWeI0MAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "WZWeI0MAAAAJ"
+                    },
+                    {
+                        "name": "K Shea",
+                        "link": "https://scholar.google.com/citations?user=sXpY0CUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sXpY0CUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "sXpY0CUAAAAJ"
+                    },
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "nature.com",
+                    "file_format": "HTML",
+                    "link": "https://www.nature.com/articles/srep18693"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=eiUDdK6T9YcJ",
+                "html_version": "https://www.nature.com/articles/srep18693",
+                "cited_by": {
+                    "total": 21,
+                    "link": "https://scholar.google.com/scholar?cites=9796898941894337914&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "9796898941894337914",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=9796898941894337914&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:eiUDdK6T9YcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AeiUDdK6T9YcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=9796898941894337914&hl=en&as_sdt=0,33",
+                    "cluster_id": "9796898941894337914",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=9796898941894337914&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Dynamical and structural analysis of a T cell survival network identifies novel candidate therapeutic targets for large granular lymphocyte leukemia",
+            "result_id": "DoDL9UYUWXsJ",
+            "type": "Html",
+            "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002267",
+            "snippet": "\u2026 Low proliferation in leukemic LGL has been observed \u2026 , the nodes BID, Caspase, and IFNG would also have in-degree and \u2026 It contains 64 states of which the state shown with a dark blue \u2026",
+            "publication_info": {
+                "summary": "\u2026, X Liu, TP Loughran, I Albert, R Albert - PLoS computational \u2026, 2011 - journals.plos.org",
+                "authors": [
+                    {
+                        "name": "I Albert",
+                        "link": "https://scholar.google.com/citations?user=hordfUUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hordfUUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "hordfUUAAAAJ"
+                    },
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "plos.org",
+                    "file_format": "HTML",
+                    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002267"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=DoDL9UYUWXsJ",
+                "html_version": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002267",
+                "cited_by": {
+                    "total": 201,
+                    "link": "https://scholar.google.com/scholar?cites=8888157634596405262&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "8888157634596405262",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=8888157634596405262&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:DoDL9UYUWXsJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3ADoDL9UYUWXsJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 21,
+                    "link": "https://scholar.google.com/scholar?cluster=8888157634596405262&hl=en&as_sdt=0,33",
+                    "cluster_id": "8888157634596405262",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=8888157634596405262&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:DoDL9UYUWXsJ:scholar.google.com/+Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "position": 8,
+            "title": "Boolean modeling: a logic\u2010based dynamic approach for understanding signaling and regulatory networks and for making useful predictions",
+            "result_id": "mVmlQuLP65IJ",
+            "link": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wsbm.1273",
+            "snippet": "\u2026 data, using probabilistic or deterministic methods.58-64 \u2026 In directed networks, the in-degree of a node is defined as \u2026 networks have only small SCCs (eg, three-node feedback loops),76, \u2026",
+            "publication_info": {
+                "summary": "R Albert, J Thakar - Wiley Interdisciplinary Reviews: Systems \u2026, 2014 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    },
+                    {
+                        "name": "J Thakar",
+                        "link": "https://scholar.google.com/citations?user=_z-lPREAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_z-lPREAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "_z-lPREAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "psu.edu",
+                    "file_format": "PDF",
+                    "link": "http://sites.psu.edu/ist402w/wp-content/uploads/sites/37586/2016/01/at_WIREs.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=mVmlQuLP65IJ",
+                "cited_by": {
+                    "total": 137,
+                    "link": "https://scholar.google.com/scholar?cites=10586783919752173977&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "10586783919752173977",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=10586783919752173977&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:mVmlQuLP65IJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AmVmlQuLP65IJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=10586783919752173977&hl=en&as_sdt=0,33",
+                    "cluster_id": "10586783919752173977",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=10586783919752173977&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Computationally efficient measure of topological redundancy of biological and social networks",
+            "result_id": "E3slcXEFLvwJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.036117",
+            "snippet": "\u2026 100 nodes which is a number smaller than all but one of the \u2026 in-degree nodes (as a group) and the 10 highest out-degree \u2026 For example, the classical work of Leinhardt [64] asserts that \u2026",
+            "publication_info": {
+                "summary": "R Albert, B DasGupta, R Hegde, GS Sivanathan\u2026 - Physical Review E, 2011 - APS",
+                "authors": [
+                    {
+                        "name": "R Albert",
+                        "link": "https://scholar.google.com/citations?user=d27Ji6kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d27Ji6kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "d27Ji6kAAAAJ"
+                    },
+                    {
+                        "name": "B DasGupta",
+                        "link": "https://scholar.google.com/citations?user=fGcKnpIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fGcKnpIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "fGcKnpIAAAAJ"
+                    },
+                    {
+                        "name": "R Hegde",
+                        "link": "https://scholar.google.com/citations?user=-CahIkgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-CahIkgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "-CahIkgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "nih.gov",
+                    "file_format": "HTML",
+                    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359779/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=E3slcXEFLvwJ",
+                "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359779/",
+                "cited_by": {
+                    "total": 30,
+                    "link": "https://scholar.google.com/scholar?cites=18171467531274255123&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "18171467531274255123",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=18171467531274255123&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:E3slcXEFLvwJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Albert+R%27,+%27indegree%27:+64%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AE3slcXEFLvwJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cluster=18171467531274255123&hl=en&as_sdt=0,33",
+                    "cluster_id": "18171467531274255123",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=18171467531274255123&engine=google_scholar&hl=en"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "position": 0,
+            "title": "Dynamic model of time-dependent complex networks",
+            "result_id": "0tvY-6_VCxcJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.046105",
+            "snippet": "\u2026 that there is little continuity in degree centrality of nodes over \u2026 diffusion over small-world and scale-free networks is also a \u2026 roughly constant, once we consider nodes below the top 50 \u2026",
+            "publication_info": {
+                "summary": "SA Hill, D Braha - Physical Review E, 2010 - APS",
+                "authors": [
+                    {
+                        "name": "SA Hill",
+                        "link": "https://scholar.google.com/citations?user=eoIvKywAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eoIvKywAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eoIvKywAAAAJ"
+                    },
+                    {
+                        "name": "D Braha",
+                        "link": "https://scholar.google.com/citations?user=qqpe1jMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qqpe1jMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qqpe1jMAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/0901.4407"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0tvY-6_VCxcJ",
+                "cited_by": {
+                    "total": 87,
+                    "link": "https://scholar.google.com/scholar?cites=1660655839437446098&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "1660655839437446098",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1660655839437446098&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:0tvY-6_VCxcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3A0tvY-6_VCxcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=1660655839437446098&hl=en&as_sdt=0,5",
+                    "cluster_id": "1660655839437446098",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1660655839437446098&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Small-world network spectra in mean-field theory",
+            "result_id": "L4SExqkjEjcJ",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.218701",
+            "snippet": "\u2026 ), ki is the degree of node i (replaced by the in-degree for directed networks), and ij is the \u2026 Spectra for networks with parameters other than N \u00bc 1000 and k \u00bc 50 yield qualitatively the \u2026",
+            "publication_info": {
+                "summary": "C Grabow, S Grosskinsky, M Timme - Physical review letters, 2012 - APS",
+                "authors": [
+                    {
+                        "name": "S Grosskinsky",
+                        "link": "https://scholar.google.com/citations?user=5ErACN4AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5ErACN4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "5ErACN4AAAAJ"
+                    },
+                    {
+                        "name": "M Timme",
+                        "link": "https://scholar.google.com/citations?user=04azk58AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=04azk58AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "04azk58AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/1112.1728"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=L4SExqkjEjcJ",
+                "cited_by": {
+                    "total": 47,
+                    "link": "https://scholar.google.com/scholar?cites=3968273433753846831&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "3968273433753846831",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3968273433753846831&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:L4SExqkjEjcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AL4SExqkjEjcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=3968273433753846831&hl=en&as_sdt=0,5",
+                    "cluster_id": "3968273433753846831",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3968273433753846831&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Social network analysis: Methods and examples",
+            "result_id": "jSoi1uEGRQgJ",
+            "type": "Book",
+            "link": "https://books.google.com/books?hl=en&lr=&id=2ZNlDQAAQBAJ&oi=fnd&pg=PP1&dq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&ots=1tyLNetiSd&sig=Z2B5diV9_4SkFtTeQYQs9YY6xsA",
+            "snippet": "\u2026 that affect both the small world of our immediate friends, online \u2026 So far we have discussed only networks in which the nodes \u2026 drastically different from the top 50 or 100 companies in the \u2026",
+            "publication_info": {
+                "summary": "S Yang, FB Keller, L Zheng - 2016 - books.google.com",
+                "authors": [
+                    {
+                        "name": "FB Keller",
+                        "link": "https://scholar.google.com/citations?user=Dx0KAVwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Dx0KAVwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Dx0KAVwAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=jSoi1uEGRQgJ",
+                "cited_by": {
+                    "total": 187,
+                    "link": "https://scholar.google.com/scholar?cites=595890092726430349&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "595890092726430349",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=595890092726430349&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:jSoi1uEGRQgJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AjSoi1uEGRQgJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=595890092726430349&hl=en&as_sdt=0,5",
+                    "cluster_id": "595890092726430349",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=595890092726430349&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "The philosophy of grammar",
+            "result_id": "SHRUNNN0dCkJ",
+            "type": "Book",
+            "link": "https://books.google.com/books?hl=en&lr=&id=1JSIGwoVhcwC&oi=fnd&pg=PA1&dq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&ots=fLhU4xwuEu&sig=EaGa3bcMm82tF7XTf0xovZsm43c",
+            "snippet": "\u2026 It is easy to see that \" I gave the boy a lump of sugar \" is of a totally different order. Here it \u2026 In Middle English we find short vowels in many comparatives: deppre, grettre as against deep, \u2026",
+            "publication_info": {
+                "summary": "O Jespersen - 1992 - books.google.com"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=SHRUNNN0dCkJ",
+                "cited_by": {
+                    "total": 6008,
+                    "link": "https://scholar.google.com/scholar?cites=2987140903318352968&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "2987140903318352968",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2987140903318352968&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:SHRUNNN0dCkJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ASHRUNNN0dCkJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=2987140903318352968&hl=en&as_sdt=0,5",
+                    "cluster_id": "2987140903318352968",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2987140903318352968&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "A dynamic network analysis of the information flows during the management of a railway disruption",
+            "result_id": "MeGAoFmJw_IJ",
+            "link": "https://journals.open.tudelft.nl/ejtir/article/view/3091",
+            "snippet": "\u2026 this is a directed graph we calculated both the indegree (number of ties directed to the node) and outdegree (the number of outgoing ties of a node). \u2026 low so there isn\u2019ta particular node \u2026",
+            "publication_info": {
+                "summary": "D Schipper, L Gerrits\u2026 - European Journal of \u2026, 2015 - journals.open.tudelft.nl",
+                "authors": [
+                    {
+                        "name": "D Schipper",
+                        "link": "https://scholar.google.com/citations?user=nMsFF9YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nMsFF9YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nMsFF9YAAAAJ"
+                    },
+                    {
+                        "name": "L Gerrits",
+                        "link": "https://scholar.google.com/citations?user=eqi8RGoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eqi8RGoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eqi8RGoAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "tudelft.nl",
+                    "file_format": "PDF",
+                    "link": "https://journals.open.tudelft.nl/ejtir/article/download/3091/3277"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=MeGAoFmJw_IJ",
+                "cited_by": {
+                    "total": 17,
+                    "link": "https://scholar.google.com/scholar?cites=17492976395675033905&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "17492976395675033905",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17492976395675033905&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:MeGAoFmJw_IJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AMeGAoFmJw_IJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=17492976395675033905&hl=en&as_sdt=0,5",
+                    "cluster_id": "17492976395675033905",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=17492976395675033905&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MeGAoFmJw_IJ:scholar.google.com/+Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5"
+            }
+        },
+        {
+            "position": 5,
+            "title": "Cognitive universals and linguistic conventions: The case of resumptive pronouns",
+            "result_id": "JlMmb5MiuncJ",
+            "link": "https://www.jbe-platform.com/content/journals/10.1075/sl.23.2.02ari",
+            "snippet": "\u2026 What we have here, then, is a situation where one factor contributes towards low \u2026 5-6, RP occurs in 83.3% (unfortunately only one example scored 6 in degree of accessibility, but it is \u2026",
+            "publication_info": {
+                "summary": "M Ariel - Studies in Language. International Journal sponsored \u2026, 1999 - jbe-platform.com",
+                "authors": [
+                    {
+                        "name": "M Ariel",
+                        "link": "https://scholar.google.com/citations?user=1OE1Pi8AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1OE1Pi8AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1OE1Pi8AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "tau.ac.il",
+                    "file_format": "PDF",
+                    "link": "http://www.tau.ac.il/~mariel/wordoc/writings/Ariel1999-ResumptivePronoun.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=JlMmb5MiuncJ",
+                "cited_by": {
+                    "total": 105,
+                    "link": "https://scholar.google.com/scholar?cites=8627246052801925926&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "8627246052801925926",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8627246052801925926&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:JlMmb5MiuncJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AJlMmb5MiuncJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=8627246052801925926&hl=en&as_sdt=0,5",
+                    "cluster_id": "8627246052801925926",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8627246052801925926&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Efficiency in linguistic change",
+            "result_id": "wJ7zgLd82p8J",
+            "type": "Book",
+            "link": "https://books.google.com/books?hl=en&lr=&id=DmDxDwAAQBAJ&oi=fnd&pg=PT6&dq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&ots=Kr5TweZj8E&sig=vaNSv99O1dOhYU-e1suP_sUcNHI",
+            "snippet": "\u2026 \u201cOther things equal, the force of all verbal forms and arrangements is great, in proportion as the time and mental effort they demand from the recipient is small.\u201d Again, \u201cthere is an \u2026",
+            "publication_info": {
+                "summary": "O Jespersen - 2020 - books.google.com"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wJ7zgLd82p8J",
+                "cited_by": {
+                    "total": 105,
+                    "link": "https://scholar.google.com/scholar?cites=11518656124537773760&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "11518656124537773760",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11518656124537773760&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:wJ7zgLd82p8J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AwJ7zgLd82p8J%3Ascholar.google.com%2F"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Graph-based term weighting for information retrieval",
+            "result_id": "ktPWlnEztq8J",
+            "link": "https://link.springer.com/article/10.1007/s10791-011-9172-x",
+            "snippet": "\u2026 in accordance to Jespersen\u2019s Rank Theory (Jespersen 1929), a \u2026 neighbours of node v i , and \u03b4(v i ) is the degree of node v i . \u2026 In our case, the indegree corresponds to how many words \u2026",
+            "publication_info": {
+                "summary": "R Blanco, C Lioma - Information retrieval, 2012 - Springer",
+                "authors": [
+                    {
+                        "name": "R Blanco",
+                        "link": "https://scholar.google.com/citations?user=Kmt375YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kmt375YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Kmt375YAAAAJ"
+                    },
+                    {
+                        "name": "C Lioma",
+                        "link": "https://scholar.google.com/citations?user=dXkFCYoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dXkFCYoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "dXkFCYoAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "github.io",
+                    "file_format": "PDF",
+                    "link": "https://lintool.github.io/robust04-analysis-papers/Blanco-Lioma2012_Article_Graph-basedTermWeightingForInf.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ktPWlnEztq8J",
+                "cited_by": {
+                    "total": 216,
+                    "link": "https://scholar.google.com/scholar?cites=12661363965353710482&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "12661363965353710482",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12661363965353710482&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ktPWlnEztq8J:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AktPWlnEztq8J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 22,
+                    "link": "https://scholar.google.com/scholar?cluster=12661363965353710482&hl=en&as_sdt=0,5",
+                    "cluster_id": "12661363965353710482",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12661363965353710482&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Dependency distance: A new perspective on syntactic patterns in natural languages",
+            "result_id": "ltyeawlM_aAJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1571064517300532",
+            "snippet": "\u2026 small recognition domain (RD), because the bigger the size, the more words that have to be kept in memory before a phrase node is \u2026 reading time when expectation is not strong [50]. In \u2026",
+            "publication_info": {
+                "summary": "H Liu, C Xu, J Liang - Physics of life reviews, 2017 - Elsevier",
+                "authors": [
+                    {
+                        "name": "H Liu",
+                        "link": "https://scholar.google.com/citations?user=VZK03SMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VZK03SMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "VZK03SMAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Haitao-Liu-8/publication/315784932_Dependency_distance_A_new_perspective_on_syntactic_patterns_in_natural_languages/links/5c889ce745851564fad9d6d6/Dependency-distance-A-new-perspective-on-syntactic-patterns-in-natural-languages.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ltyeawlM_aAJ",
+                "cited_by": {
+                    "total": 202,
+                    "link": "https://scholar.google.com/scholar?cites=11600511818520255638&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "11600511818520255638",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11600511818520255638&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ltyeawlM_aAJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AltyeawlM_aAJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=11600511818520255638&hl=en&as_sdt=0,5",
+                    "cluster_id": "11600511818520255638",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11600511818520255638&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Relaxation dynamics of small-world degree-distributed treelike polymer networks",
+            "result_id": "wLwOFan8k3IJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0378437116303739",
+            "snippet": "\u2026 node will be given by following this degree distribution, but our algorithm will create treelike structures. The difference in degree distribution of the two algorithms, small-\u2026 N = 50 nodes \u2026",
+            "publication_info": {
+                "summary": "M Galiceanu, ES Oliveira, M Dolgushev - Physica A: Statistical Mechanics \u2026, 2016 - Elsevier",
+                "authors": [
+                    {
+                        "name": "M Dolgushev",
+                        "link": "https://scholar.google.com/citations?user=rBu6UvoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rBu6UvoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "rBu6UvoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wLwOFan8k3IJ",
+                "cited_by": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cites=8256220345033211072&as_sdt=2005&sciodt=0,5&hl=en",
+                    "cites_id": "8256220345033211072",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8256220345033211072&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:wLwOFan8k3IJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Jespersen+S%27,+%27indegree%27:+50%7D&hl=en&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AwLwOFan8k3IJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=8256220345033211072&hl=en&as_sdt=0,5",
+                    "cluster_id": "8256220345033211072",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8256220345033211072&engine=google_scholar&hl=en"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "position": 0,
+            "title": "Organization of growing random networks",
+            "result_id": "i3noi_IzHQAJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.63.066123",
+            "snippet": "\u2026 , while a relatively small number of nodes garner a large \u2026 measured for the web graph 48,49 and for social networks 23. \u2026 also reduces the number of nodes with in-degree zero. For \u2026",
+            "publication_info": {
+                "summary": "PL Krapivsky, S Redner - Physical Review E, 2001 - APS",
+                "authors": [
+                    {
+                        "name": "PL Krapivsky",
+                        "link": "https://scholar.google.com/citations?user=IBiCgqcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IBiCgqcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "IBiCgqcAAAAJ"
+                    },
+                    {
+                        "name": "S Redner",
+                        "link": "https://scholar.google.com/citations?user=9g6Z6_UAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9g6Z6_UAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "9g6Z6_UAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/cond-mat/0011094"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=i3noi_IzHQAJ",
+                "cited_by": {
+                    "total": 1070,
+                    "link": "https://scholar.google.com/scholar?cites=8219891146979723&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "8219891146979723",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=8219891146979723&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:i3noi_IzHQAJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3Ai3noi_IzHQAJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 16,
+                    "link": "https://scholar.google.com/scholar?cluster=8219891146979723&hl=en&as_sdt=0,33",
+                    "cluster_id": "8219891146979723",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=8219891146979723&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Breaking news dissemination in the media via propagation behavior based on complex network theory",
+            "result_id": "qxOxpuZ_y-YJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0378437116002120",
+            "snippet": "\u2026 To calculate the small world quotient Q , we produced 50 times a \u2026 via nodes with high in-degree and weighted in-degree, and we can control the information spreading through nodes \u2026",
+            "publication_info": {
+                "summary": "N Liu, H An, X Gao, H Li, X Hao - Physica A: Statistical Mechanics and its \u2026, 2016 - Elsevier",
+                "authors": [
+                    {
+                        "name": "X Gao",
+                        "link": "https://scholar.google.com/citations?user=ktYLwiQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ktYLwiQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "ktYLwiQAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qxOxpuZ_y-YJ",
+                "cited_by": {
+                    "total": 34,
+                    "link": "https://scholar.google.com/scholar?cites=16630526677611516843&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "16630526677611516843",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=16630526677611516843&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:qxOxpuZ_y-YJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AqxOxpuZ_y-YJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=16630526677611516843&hl=en&as_sdt=0,33",
+                    "cluster_id": "16630526677611516843",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=16630526677611516843&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Spreading dynamics in complex networks",
+            "result_id": "ElXcTIP9CLIJ",
+            "link": "https://iopscience.iop.org/article/10.1088/1742-5468/2013/12/P12002/meta",
+            "snippet": "\u2026 a k-set nodes that can lead to maximal influence is a NP-hard optimization problem [48]. The \u2026 In figure 1(a), there exist lots of nodes with large indegree but small k S . Meanwhile, not all \u2026",
+            "publication_info": {
+                "summary": "S Pei, HA Makse - Journal of Statistical Mechanics: Theory and \u2026, 2013 - iopscience.iop.org",
+                "authors": [
+                    {
+                        "name": "S Pei",
+                        "link": "https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WKpjMHsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "WKpjMHsAAAAJ"
+                    },
+                    {
+                        "name": "HA Makse",
+                        "link": "https://scholar.google.com/citations?user=Xa30RAUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xa30RAUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Xa30RAUAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/1312.6335.pdf%3B"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ElXcTIP9CLIJ",
+                "cited_by": {
+                    "total": 247,
+                    "link": "https://scholar.google.com/scholar?cites=12828782278936909074&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "12828782278936909074",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12828782278936909074&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ElXcTIP9CLIJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AElXcTIP9CLIJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=12828782278936909074&hl=en&as_sdt=0,33",
+                    "cluster_id": "12828782278936909074",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=12828782278936909074&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Adaptive coevolutionary networks: a review",
+            "result_id": "Bg2w6A9zN-cJ",
+            "link": "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2007.1229",
+            "snippet": "\u2026 some nodes are of high degree while other nodes are of low \u2026 if every node has a high degree at certain times and a low \u2026 similar nodes often leads to strong heterogeneity in degree. \u2026",
+            "publication_info": {
+                "summary": "T Gross, B Blasius - Journal of the Royal Society \u2026, 2008 - royalsocietypublishing.org",
+                "authors": [
+                    {
+                        "name": "T Gross",
+                        "link": "https://scholar.google.com/citations?user=eogyTQUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eogyTQUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eogyTQUAAAAJ"
+                    },
+                    {
+                        "name": "B Blasius",
+                        "link": "https://scholar.google.com/citations?user=hDRCDJwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hDRCDJwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "hDRCDJwAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "royalsocietypublishing.org",
+                    "file_format": "HTML",
+                    "link": "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2007.1229"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Bg2w6A9zN-cJ",
+                "html_version": "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2007.1229",
+                "cited_by": {
+                    "total": 1109,
+                    "link": "https://scholar.google.com/scholar?cites=16660911858645994758&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "16660911858645994758",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=16660911858645994758&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Bg2w6A9zN-cJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3ABg2w6A9zN-cJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cluster=16660911858645994758&hl=en&as_sdt=0,33",
+                    "cluster_id": "16660911858645994758",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=16660911858645994758&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Dynamic model of time-dependent complex networks",
+            "result_id": "0tvY-6_VCxcJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.046105",
+            "snippet": "\u2026 demonstrated that there is little continuity in degree centrality of nodes over time, even when \u2026 2% of nodes (ie, the 20 000 nodes with the highest degree) is dramatically smaller with the \u2026",
+            "publication_info": {
+                "summary": "SA Hill, D Braha - Physical Review E, 2010 - APS",
+                "authors": [
+                    {
+                        "name": "SA Hill",
+                        "link": "https://scholar.google.com/citations?user=eoIvKywAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eoIvKywAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eoIvKywAAAAJ"
+                    },
+                    {
+                        "name": "D Braha",
+                        "link": "https://scholar.google.com/citations?user=qqpe1jMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qqpe1jMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qqpe1jMAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/0901.4407"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0tvY-6_VCxcJ",
+                "cited_by": {
+                    "total": 87,
+                    "link": "https://scholar.google.com/scholar?cites=1660655839437446098&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "1660655839437446098",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=1660655839437446098&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:0tvY-6_VCxcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3A0tvY-6_VCxcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=1660655839437446098&hl=en&as_sdt=0,33",
+                    "cluster_id": "1660655839437446098",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=1660655839437446098&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Rumor spreading and monitoring deployment in online social networks",
+            "result_id": "LzYJHUugZGgJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/8359853/",
+            "snippet": "\u2026 find the node i v who has the highest in-degree; \u2026 distribution, which means most nodes have only a few connection while the other small proportion of nodes occupy a large number of \u2026",
+            "publication_info": {
+                "summary": "Q Han, F Miao, W Fan - 2017 IEEE 17th International \u2026, 2017 - ieeexplore.ieee.org"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=LzYJHUugZGgJ",
+                "cited_by": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cites=7522313522085705263&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "7522313522085705263",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7522313522085705263&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:LzYJHUugZGgJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3ALzYJHUugZGgJ%3Ascholar.google.com%2F"
+            }
+        },
+        {
+            "position": 6,
+            "title": "The navigability of strong ties: Small worlds, tie strength, and network topology",
+            "result_id": "rBHY5xfXA-cJ",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.10053",
+            "snippet": "\u2026 edges per node and tending to form clusters or short cycles, \u2026 that are equiprobable, and differences in degree connectivity \u2026 alliances between distant rather than close blood-kin [48,49]. \u2026",
+            "publication_info": {
+                "summary": "DR White, M Houseman - Complexity, 2002 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "DR White",
+                        "link": "https://scholar.google.com/citations?user=doBowIIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=doBowIIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "doBowIIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "wiley.com",
+                    "file_format": "PDF",
+                    "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cplx.10053"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rBHY5xfXA-cJ",
+                "cited_by": {
+                    "total": 140,
+                    "link": "https://scholar.google.com/scholar?cites=16646385145365402028&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "16646385145365402028",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=16646385145365402028&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:rBHY5xfXA-cJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3ArBHY5xfXA-cJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 21,
+                    "link": "https://scholar.google.com/scholar?cluster=16646385145365402028&hl=en&as_sdt=0,33",
+                    "cluster_id": "16646385145365402028",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=16646385145365402028&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Maximizing micro-blog influence in online promotion",
+            "result_id": "dahLvexz4tAJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0957417416306157",
+            "snippet": "\u2026 of a selected node is small, node coverage (influence score) will also be small, even if the \u2026 analysis to identify the in-degree, out-degree, and centrality of the nodes. The results are \u2026",
+            "publication_info": {
+                "summary": "F Li, TC Du - Expert Systems with Applications, 2017 - Elsevier",
+                "authors": [
+                    {
+                        "name": "TC Du",
+                        "link": "https://scholar.google.com/citations?user=F0ENIf8AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F0ENIf8AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "F0ENIf8AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=dahLvexz4tAJ",
+                "cited_by": {
+                    "total": 55,
+                    "link": "https://scholar.google.com/scholar?cites=15051720365250947189&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "15051720365250947189",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15051720365250947189&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:dahLvexz4tAJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AdahLvexz4tAJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=15051720365250947189&hl=en&as_sdt=0,33",
+                    "cluster_id": "15051720365250947189",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=15051720365250947189&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Opinion dynamics on coevolving networks",
+            "result_id": "UsZSr-8tWlwJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-1-4614-6729-8_5",
+            "snippet": "\u2026 the voter model is the one proposed by Zanette and Gil [30, 31]\u2026 to another node chosen at random, keeping its in-degree \u2026 cover all of them in this short review. Many of these models are \u2026",
+            "publication_info": {
+                "summary": "F Vazquez - Dynamics On and Of Complex Networks, Volume 2 \u2026, 2013 - Springer",
+                "authors": [
+                    {
+                        "name": "F Vazquez",
+                        "link": "https://scholar.google.com/citations?user=vW6mI40Rlj4C&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vW6mI40Rlj4C&engine=google_scholar_author&hl=en",
+                        "author_id": "vW6mI40Rlj4C"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Federico-Vazquez-3/publication/255961617_Opinion_Dynamics_on_Coevolving_Networks/links/02e7e520f943b7382d000000/Opinion-Dynamics-on-Coevolving-Networks.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=UsZSr-8tWlwJ",
+                "cited_by": {
+                    "total": 29,
+                    "link": "https://scholar.google.com/scholar?cites=6654681906855200338&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "6654681906855200338",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6654681906855200338&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:UsZSr-8tWlwJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AUsZSr-8tWlwJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=6654681906855200338&hl=en&as_sdt=0,33",
+                    "cluster_id": "6654681906855200338",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=6654681906855200338&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Demography-based adaptive network model reproduces the spatial organization of human linguistic groups",
+            "result_id": "sE-z6B1lJqcJ",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062811",
+            "snippet": "\u2026 , leading to networks assortative in degree and to first-order \u2026 draw directed links between each node i and nodes at positions i \u00b1 \u2026 Zanette for their early contribution to some aspects of this \u2026",
+            "publication_info": {
+                "summary": "JA Capit\u00e1n, S Manrubia - Physical Review E, 2015 - APS",
+                "authors": [
+                    {
+                        "name": "JA Capit\u00e1n",
+                        "link": "https://scholar.google.com/citations?user=wzH0c00AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wzH0c00AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "wzH0c00AAAAJ"
+                    },
+                    {
+                        "name": "S Manrubia",
+                        "link": "https://scholar.google.com/citations?user=-bFCGEwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-bFCGEwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "-bFCGEwAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/1508.04952"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=sE-z6B1lJqcJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=12044425432581492656&as_sdt=5,33&sciodt=0,33&hl=en",
+                    "cites_id": "12044425432581492656",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12044425432581492656&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:sE-z6B1lJqcJ:scholar.google.com/&scioq=Small+%7B%27node%27:+%27Zanette+DH%27,+%27indegree%27:+48%7D&hl=en&as_sdt=0,33",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AsE-z6B1lJqcJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=12044425432581492656&hl=en&as_sdt=0,33",
+                    "cluster_id": "12044425432581492656",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=12044425432581492656&engine=google_scholar&hl=en"
+                }
+            }
+        }
+    ]
+]
